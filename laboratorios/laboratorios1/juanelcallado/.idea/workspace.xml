@@ -24,8 +24,8 @@
       <file leaf-file-name="juanelcallado.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/juanelcallado.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35150376">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.15977444">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -267,7 +267,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1260" height="944" extended-state="1" />
+    <frame x="10" y="20" width="1260" height="944" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -299,8 +299,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/juanelcallado.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35150376">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.15977444">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
